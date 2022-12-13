@@ -8,10 +8,9 @@
 
 ### Estudando
 <div style="display: inline_block"><br>
-  <img align="center" alt="Chicao-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Chicao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Chicao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Chicao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Chicao-node" height="30" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img align="center" alt="Chicao-dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">
 </div>
 
 ##
