@@ -1,4 +1,5 @@
-## Olá Sou Matheus 'Chicão' Henrique ✌🏻. 
+## Olá Sou Matheus Henrique✌🏻. 
+Sou Formado em Analise e Desevolvimento de Sistama 
 
 ### Trabalho Com
 <div style="display: inline_block"><br>
@@ -8,8 +9,7 @@
 
 ### Estudando
 <div style="display: inline_block"><br>
-  <img align="center" alt="Chicao-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Chicao-node" height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img align="center" alt="Chicao-Js" height="40" width="40" src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png">  
   <img align="center" alt="Chicao-dotnet" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">
 </div>
 
@@ -22,12 +22,9 @@
 </div>
   
  ### Podem me encontrar aqui 👇🏻  
-
 <div> 
-  <a href="https://www.youtube.com/channel/UC8Sc6C6dnQP9JWJyJVPIT5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/httpsmatheuss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dev.matheushpa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/canalchicao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/t6JPZPz5mT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/matheushpa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
