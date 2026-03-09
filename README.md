@@ -6,14 +6,6 @@ Sou Formado em Analise e Desevolvimento de Sistama e venho estudo Backend.
   <img align="center" alt="Chicao-PG" height="40" width="40" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png">
   <img align="center" alt="Chicao-DP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
-
-### Estudando
-<div style="display: inline_block"><br>
-    <img align="center" alt="Chicao-ruby" height="40" width="40" src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png">
-  
-  <img align="center" alt="Chicao-dotnet" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png">
-</div>
-
 ##
 
 <div>
